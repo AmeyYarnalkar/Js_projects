@@ -1,4 +1,4 @@
-# Project Name
+# Javascript Projects
 
 ## Table of Contents
 - [Overview](#overview)
