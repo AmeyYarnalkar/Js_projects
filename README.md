@@ -10,6 +10,16 @@
 
 ---
 
+## Project Links
+- [Number Gussing](#https://stellar-strudel-922254.netlify.app/)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Setup Instructions](#setup-instructions)
+- [Contributing](#contributing)
+- [License](#license)
+
+---
+
 ## Overview
 JavaScript projects can range from simple scripts to complex web applications. These projects often involve using JavaScript to manipulate the DOM, handle events, and interact with APIs. JavaScript is a versatile language that can be used for both front-end and back-end development, thanks to environments like Node.js.
 
