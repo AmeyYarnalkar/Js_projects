@@ -12,7 +12,7 @@
 
 ## Project Links
 - [Number Gussing](https://stellar-strudel-922254.netlify.app/)
-- [Features](#features)
+- [Dice Game](https://fastidious-strudel-cc4c07.netlify.app/)
 - [Technologies Used](#technologies-used)
 - [Setup Instructions](#setup-instructions)
 - [Contributing](#contributing)
