@@ -11,7 +11,7 @@
 ---
 
 ## Project Links
-- [Number Gussing](#https://stellar-strudel-922254.netlify.app/)
+- [Number Gussing](https://stellar-strudel-922254.netlify.app/)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup Instructions](#setup-instructions)
